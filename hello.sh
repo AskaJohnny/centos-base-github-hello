@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hello Docker   for github Some"
+echo "Hello Docker  Github"
