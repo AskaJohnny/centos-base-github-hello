@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "Hello Docker   for tag"
+echo "Hello Docker   for github "
